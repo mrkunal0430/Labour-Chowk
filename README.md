@@ -1,25 +1,37 @@
   <h2>Track Used <ins> -Social Cause and Open Innovation</ins></h2>
   
 ## LabourChowk
-The repository is for <strong>Hackowasp</strong> dated from 11-14
-Working link - https://chowklabours.herokuapp.com/
+
  ### Team member
   <ul>
-  <li>Shubham Kumar <strong>(Team leader)</strong></li>
+  <li>Kunal Verma <strong>(Team leader)</strong></li>
      
-  <li>Ankit Jha</li>
-  
-  <li>Swastik Kumar</li>
-  
-  
-   <li>Ravi Ranjan Kumar</li>
-  
-
+  <li>Shivam Rajput</li>
   
   </ul>
 
   
-   ###  The idea behind the project is on this   [ppt](https://docs.google.com/presentation/d/1JaWYYLWnFEhJCDpa4lb5e6L-X2VjPSzm/edit?usp=sharing&ouid=118058844596059449422&rtpof=true&sd=true).
+   ###  The idea behind the project is on this  
+   ->   ELIMINATING THE NEED TO GO TO MARKET TO FIND A WORKER AND PROVIDING EQUAL OPPORTUNITY TO EARN 
+      ->  No alternative platform
+          There is no platform which can connect the worker directly to required customer.It may happen that a particular worker may not be available in market for a specific work.It require lot of       
+          searching not only resulting in waste of money but also time.
+
+      ->  Lots of competition in market 
+          here is usually lots of competition in labourchawk .Usually strong workers surpress the weak and does not allow them to present themselves when a customer arrives.The weak workers gets obliged 
+          to lower their rate to get a work
+
+      ->  Not a proper rate in market
+          As said worker usually lower their seeing the competition or may increase the rate seeing the scarcity. So what our platform does it brings uniformity in prices. Each worker gets fixed price 
+          based on the work they do.
+
+      ->  Eliminates discrimination
+          Since prices are fixed there is no question of discrimination based on gender , religion and caste .No community can dominate over other in online mode. Usually it is seen that female worker get 
+          paid low price compared to male worker
+
+      ->  Poor outreach
+          Usually it may happen that labour chawk may be far away from a customer so our platform reduces the distance and eliminates a cumbersome process
+
 
   
 <!--   ###Illustration of of our project -->
@@ -39,9 +51,6 @@ Tech Stack used is
 
 
 
-
-
-
 MLH track used 
 
 <!-- - Twilio -->
@@ -50,9 +59,7 @@ MLH track used
 - twilio
 
 ---
- Team details
-
-
+ PROJECT DETAIL
 ---
 
 # Setup
@@ -71,14 +78,14 @@ npm run start
 
 <h3>HOME PAGE</h3>
 
-![image](https://github.com/ShubhamKumar5802/labourchowk/blob/main/home.jpeg)
+https://ibb.co/QKgwQXm
 
 
 <h3>SIGN UP PAGES</h3>
 
 <h4>Worker</h4>
 
-![image](https://github.com/18ankitjha/labourchowk/blob/main/signupworker.jpeg)
+https://ibb.co/tJ0100C
 
 
 <h4>Customer</h4>
