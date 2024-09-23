@@ -13,20 +13,25 @@
   
    ###  The idea behind the project is on this  
    ->   ELIMINATING THE NEED TO GO TO MARKET TO FIND A WORKER AND PROVIDING EQUAL OPPORTUNITY TO EARN 
+      
       ->  No alternative platform
-          There is no platform which can connect the worker directly to required customer.It may happen that a particular worker may not be available in market for a specific work.It require lot of       
+          There is no platform which can connect the worker directly to required customer.It may happen that a particular worker may not be available in 
+          market for a specific work.It require lot of       
           searching not only resulting in waste of money but also time.
 
       ->  Lots of competition in market 
-          here is usually lots of competition in labourchawk .Usually strong workers surpress the weak and does not allow them to present themselves when a customer arrives.The weak workers gets obliged 
+          here is usually lots of competition in labourchawk .Usually strong workers surpress the weak and does not allow them to present themselves when a 
+          customer arrives.The weak workers gets obliged 
           to lower their rate to get a work
 
       ->  Not a proper rate in market
-          As said worker usually lower their seeing the competition or may increase the rate seeing the scarcity. So what our platform does it brings uniformity in prices. Each worker gets fixed price 
+          As said worker usually lower their seeing the competition or may increase the rate seeing the scarcity. So what our platform does it brings 
+          uniformity in prices. Each worker gets fixed price 
           based on the work they do.
 
       ->  Eliminates discrimination
-          Since prices are fixed there is no question of discrimination based on gender , religion and caste .No community can dominate over other in online mode. Usually it is seen that female worker get 
+          Since prices are fixed there is no question of discrimination based on gender , religion and caste .No community can dominate over other in 
+          online mode. Usually it is seen that female worker get 
           paid low price compared to male worker
 
       ->  Poor outreach
@@ -78,54 +83,52 @@ npm run start
 
 <h3>HOME PAGE</h3>
 
-https://ibb.co/QKgwQXm
+![Uploading screencapture-localhost-3000-2024-09-23-14_00_32.png…]()
 
 
 <h3>SIGN UP PAGES</h3>
 
 <h4>Worker</h4>
 
-https://ibb.co/tJ0100C
-
+![Uploading screencapture-localhost-3000-signup-2024-09-23-14_04_12.png…]()
 
 <h4>Customer</h4>
 
-![image](https://github.com/18ankitjha/labourchowk/blob/main/signupuser.jpeg)
-
-
-
-
+![Uploading screencapture-localhost-3000-signup-2024-09-23-14_16_13.png…]()
 
 <h3>LOGIN PAGES</h3>
 
 <h4>Worker</h4>
 
-
-![image](https://github.com/18ankitjha/labourchowk/blob/main/signinworker.jpeg)
+![Uploading screencapture-localhost-3000-signin-2024-09-23-14_17_25.png…]()
 
 <h4>Customer</h4>
 
-![image](https://github.com/18ankitjha/labourchowk/blob/main/signincustomer.jpeg)
+![Uploading screencapture-localhost-3000-signin-2024-09-23-14_18_02.png…]()
 
 <h3>Dashboard</h3>
 
 <h4>Worker</h4>
 
-
 ![image](https://github.com/18ankitjha/labourchowk/blob/main/dashboardcustomer.jpeg)
 
 <h4>Customer</h4>
 
-
-
 ![image](https://github.com/ShubhamKumar5802/labourchowk/blob/main/dashboarduser.jpeg)
 
-
-
 ---
-Video link/embed is https://www.loom.com/share/d1c64de329f84fd1b89209e7e06abd7c
 
+<h1>Working</h1>
 
-Devfolio link - https://devfolio.co/submissions/labour-chowk-56d2
+![Uploading Screenshot 2024-09-23 131625.png…]()
+
+![Uploading Screenshot 2024-09-23 131705.png…]()
+
+<h1>Future Scope</h1>
+
+![Uploading Screenshot 2024-09-23 131739.png…]()
+
+<h3>Thank you for Reading</h3>
+
 
 
