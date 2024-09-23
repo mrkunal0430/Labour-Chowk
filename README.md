@@ -83,34 +83,39 @@ npm run start
 
 <h3>HOME PAGE</h3>
 
-![Uploading screencapture-localhost-3000-2024-09-23-14_00_32.png…]()
+
+![screencapture-localhost-3000-2024-09-23-14_00_32](https://github.com/user-attachments/assets/9af71d83-b230-44f3-912d-5b7f8f203848)
+
 
 
 <h3>SIGN UP PAGES</h3>
 
 <h4>Worker</h4>
 
-![Uploading screencapture-localhost-3000-signup-2024-09-23-14_04_12.png…]()
+![screencapture-localhost-3000-signup-2024-09-23-14_04_12](https://github.com/user-attachments/assets/db91d432-7ee2-4d28-9a16-9942b4a529c0)
+
 
 <h4>Customer</h4>
 
-![Uploading screencapture-localhost-3000-signup-2024-09-23-14_16_13.png…]()
+![screencapture-localhost-3000-signup-2024-09-23-14_16_13](https://github.com/user-attachments/assets/48e896bd-8524-4cbd-87c3-9438ee8941a4)
+
 
 <h3>LOGIN PAGES</h3>
 
 <h4>Worker</h4>
 
-![Uploading screencapture-localhost-3000-signin-2024-09-23-14_17_25.png…]()
+![screencapture-localhost-3000-signin-2024-09-23-14_17_25](https://github.com/user-attachments/assets/c2ccdad1-85cd-40e1-a3ff-eac5654b908b)
 
 <h4>Customer</h4>
 
-![Uploading screencapture-localhost-3000-signin-2024-09-23-14_18_02.png…]()
+![screencapture-localhost-3000-signin-2024-09-23-14_18_02](https://github.com/user-attachments/assets/8ed49c64-76ef-4c0b-9c3b-c43e756bf507)
 
 <h3>Dashboard</h3>
 
 <h4>Worker</h4>
 
-![image](https://github.com/18ankitjha/labourchowk/blob/main/dashboardcustomer.jpeg)
+![screencapture-localhost-3000-loginworker-2024-09-23-14_50_51](https://github.com/user-attachments/assets/c309800a-8910-4e58-a20f-dc3939c605fe)
+
 
 <h4>Customer</h4>
 
@@ -120,13 +125,13 @@ npm run start
 
 <h1>Working</h1>
 
-![Uploading Screenshot 2024-09-23 131625.png…]()
-
-![Uploading Screenshot 2024-09-23 131705.png…]()
+![Screenshot 2024-09-23 131625](https://github.com/user-attachments/assets/ffabc290-a18e-417a-8a6f-10b6fdffe2d6)
+![Screenshot 2024-09-23 131705](https://github.com/user-attachments/assets/38286d75-ba14-4f4b-88ae-c2564c1f701b)
 
 <h1>Future Scope</h1>
 
-![Uploading Screenshot 2024-09-23 131739.png…]()
+![Screenshot 2024-09-23 131739](https://github.com/user-attachments/assets/e8b9e46d-8f6f-452e-abbd-56d4a578c0f7)
+
 
 <h3>Thank you for Reading</h3>
 
